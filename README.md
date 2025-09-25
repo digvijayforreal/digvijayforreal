@@ -20,7 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=digvijayforreal&show_icons=true&locale=en" alt="digvijayforreal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=digvijayforreal&" alt="digvijayforreal" /></p>
-## Hi there 👋
+
 
 <!--
 **digvijayforreal/digvijayforreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
