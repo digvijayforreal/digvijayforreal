@@ -22,6 +22,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=digvijayforreal&show_icons=true&locale=en" alt="digvijayforreal" /></p>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/digvijayforreal?theme=dark&font=Karma&ext=heatmap)
+
+
 
 
 <!--
